@@ -28,7 +28,7 @@ Mentionner les sources (google, pdf, article, etc)
 Nous transmettre le POC via github.com (si possible) ou via Readme.txt ( Description de code, ce que fait le code, les versions utilisées etc, comment exécuter le code)
 Le code devra être bien documenté .
 
-Solutions:
+############# Solutions #############
 
 1- Pour répondre à cette question, on va utiliser la loi des grands nombres qui dit que la moyenne d'un très grand échantillon converge vers l'espérance de notre variable aléatoire. C'est à dire qu'on va lancer un grand nombre de fois la pièce, écrire les résultats à chaque lancer et calculer la moyenne d'apparition de piles (ou de faces).
 Cette moyenne ainsi obtenue pourra nous donner une idée de la fiabilité de la pièce, on pourra également donner un intervalle de confiance pour p (probabilité de face ou de pile), pour se faire on va approximer notre loi par la loi Normale centrée réduite grâce au théorème central limite.
