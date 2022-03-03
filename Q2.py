@@ -1,6 +1,6 @@
 #Question 2:
-
 import numpy as np
+
 #L'idée est de changer celui qui a choisi pile à chaque tour.
 p = 0.7 #probabilité souhaitée d'apparition de pile
 J1win = 0 #nombre de victoire de J1
